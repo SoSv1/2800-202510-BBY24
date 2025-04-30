@@ -62,10 +62,18 @@ project-name/
 
 ---
 
-## Contributors
-- Nikolas Rose - BCIT CST Student who enjoys programming and has a passion for gaming and hiking.
-- **Nathan** - BCIT CST Student, I'm studying CST at BCIT.
-- **Berenice** - BCIT CST Student. I am excited to see what I can create!
+## About Us  
+Team Name: BBY-24 
+Team Members:  
+- Nikolas Rose  
+- Berenice Jean-Louis  
+- Aarushi Sharma  
+- Jonathan Yeh  
+- Carl Manasala  
+
+## More details to come  
+TBA  
+
 
 ---
 
